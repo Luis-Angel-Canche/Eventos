@@ -1,0 +1,11 @@
+C:\Users\Luis_\source\repos\Eventos\Eventos\bin\Debug\netcoreapp3.0\Eventos.exe
+C:\Users\Luis_\source\repos\Eventos\Eventos\bin\Debug\netcoreapp3.0\Eventos.deps.json
+C:\Users\Luis_\source\repos\Eventos\Eventos\bin\Debug\netcoreapp3.0\Eventos.runtimeconfig.json
+C:\Users\Luis_\source\repos\Eventos\Eventos\bin\Debug\netcoreapp3.0\Eventos.runtimeconfig.dev.json
+C:\Users\Luis_\source\repos\Eventos\Eventos\bin\Debug\netcoreapp3.0\Eventos.dll
+C:\Users\Luis_\source\repos\Eventos\Eventos\bin\Debug\netcoreapp3.0\Eventos.pdb
+C:\Users\Luis_\source\repos\Eventos\Eventos\obj\Debug\netcoreapp3.0\Eventos.csprojAssemblyReference.cache
+C:\Users\Luis_\source\repos\Eventos\Eventos\obj\Debug\netcoreapp3.0\Eventos.AssemblyInfoInputs.cache
+C:\Users\Luis_\source\repos\Eventos\Eventos\obj\Debug\netcoreapp3.0\Eventos.AssemblyInfo.cs
+C:\Users\Luis_\source\repos\Eventos\Eventos\obj\Debug\netcoreapp3.0\Eventos.dll
+C:\Users\Luis_\source\repos\Eventos\Eventos\obj\Debug\netcoreapp3.0\Eventos.pdb
